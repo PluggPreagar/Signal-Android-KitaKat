@@ -654,7 +654,8 @@
     <string name="ExpiredBuildReminder_update_now">Jetzt aktualisieren</string>
 
     <!-- A message in a banner shown at the top of the screen indicating that the user must upgrade their device to use signal. -->
-    <string name="ExpiredBuildReminder_api_19_message">Signal funktioniert auf diesem Gerät nicht mehr. Um Signal wieder nutzen zu können, aktualisiere dein Gerät auf eine neuere Android-Version oder wechsle zu einem neueren Gerät.</string>
+    <!--<string name="ExpiredBuildReminder_api_19_message">Signal funktioniert auf diesem Gerät nicht mehr. Um Signal wieder nutzen zu können, aktualisiere dein Gerät auf eine neuere Android-Version oder wechsle zu einem neueren Gerät.</string>
+    --><string name="ExpiredBuildReminder_api_19_message">Signal DownMerge.</string>
 
     <!-- PendingGroupJoinRequestsReminder -->
     <plurals name="PendingGroupJoinRequestsReminder_d_pending_member_requests">

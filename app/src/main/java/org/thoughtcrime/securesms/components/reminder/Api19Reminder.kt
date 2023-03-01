@@ -33,7 +33,8 @@ class Api19Reminder(context: Context) : Reminder(null, context.getString(R.strin
   companion object {
     @JvmStatic
     fun isEligible(): Boolean {
-      return Build.VERSION.SDK_INT < 21 && !ExpiredBuildReminder.isEligible()
+      // return Build.VERSION.SDK_INT < 21 && !ExpiredBuildReminder.isEligible()
+      return false
     }
 
     fun getExpireDate(): String {
