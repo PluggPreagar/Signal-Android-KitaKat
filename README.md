@@ -2,6 +2,16 @@
 
 Signal is a simple, powerful, and secure messenger.
 
+## KitKat
+
+6.8.3 breaks with Android KitKat Phones - yes they are still around. Keep things runinng keeps env clean ;-)
+
+So major concept is to stay with KitKat. This may include to remove fancy and fastly obsolete things. In turn we will down fork changes to Secure-Message-API to keep it running.
+
+---
+
+## Original 
+
 Signal uses your phone's data connection (WiFi/3G/4G/5G) to communicate securely. Millions of people use Signal every day for free and instantaneous communication anywhere in the world. Send and receive high-fidelity messages, participate in HD voice/video calls, and explore a growing set of new features that help you stay connected. Signal’s advanced privacy-preserving technology is always enabled, so you can focus on sharing the moments that matter with the people who matter to you.
 
 Currently available on the Play Store and [signal.org](https://signal.org/android/apk/).
